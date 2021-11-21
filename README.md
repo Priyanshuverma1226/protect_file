@@ -1,0 +1,2 @@
+# protect_file
+hello
